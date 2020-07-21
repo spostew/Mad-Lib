@@ -1,7 +1,6 @@
 # Mad-Lib
 Mad Lib in Python
-# Mad Libs Project. Contains the same story but allows users to enter in a series of words and
-# arranges them in a funny way.
+# Mad Libs Project. Contains the same story but allows users to enter in a series of words and arranges them in a funny way.
 
 print("Welcome to weird news! Please follow the instructions until the story is shown.")
 
